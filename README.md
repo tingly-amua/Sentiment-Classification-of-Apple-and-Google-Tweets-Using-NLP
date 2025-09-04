@@ -1,6 +1,6 @@
 <h1 align="center">Sentiment Classification of Apple and Google Tweets Using NLP</h1>
 
-![1538479344425 (1)](https://github.com/user-attachments/assets/3df96dba-a283-4b3f-983b-073cb4a3ed48)
+![tweet tweet](https://github.com/user-attachments/assets/7cdd5791-be28-48d8-8f88-12e02c652d07)
 
 ## Overview
 Customer sentiment is an integral part of commerce that drives company profits, influences brand reputation, and dictates strategic positioning in today's world. A bulk of that sentiment is found online on social media platforms such as Twitter in the form of  positive, negative, or neutral product reviews. This project analyzes Twitter sentiment about Apple and Google products using Natural Language Processing and advanced supervised modeling techniques to track their public perception. Knowledge on customer sentiment will influence Apple and Google's efforts in sales marketing, influencing company reputation, and improving their products for better customer engagement.
@@ -10,6 +10,7 @@ a) A python notebook containing the NLP project code
 b) A ReadMe file describing the project
 c) A 'figures' file where the plots and images used in this project and presentation are located
 d) A tableau visualization located [here](https://public.tableau.com/app/profile/edna.maina/viz/TwitterSentimentAnalysis_17567937827180/Dashboard1?publish=yes )
+e) A .ptt file containing the project's presentation
 
 ## Business Understanding
 
@@ -30,7 +31,7 @@ The dataset used for this NLP project was obtained from CrowdFlower via [data.wo
 It contains information such as:
   1. Tweet text
   2. Emotion in tweet is directed at
-  3. Is there an emotiona directed at a brand or product
+  3. Is there an emotion directed at a brand or product
 
 The above columns will be simplified to; Tweet, Device, and Emotion respectively for ease of analysis.
 
